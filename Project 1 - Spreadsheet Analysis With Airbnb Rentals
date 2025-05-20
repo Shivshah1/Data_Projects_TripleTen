@@ -1,0 +1,13 @@
+Project file : 
+https://docs.google.com/spreadsheets/d/1BIRwrLYz1Iaw_aSddXPnhcoJoSVp43tF3jZ-1EaPE9E/edit?usp=sharing
+Description:
+I undertook a data-driven analysis of Airbnb listings to uncover insights into the most desirable neighborhoods and property types
+for short-term vacation rentals. The objective was to identify key factors contributing to higher rental demand and revenue potential using Excel-based tools.
+The project began with data cleaning and preparation to ensure accuracy and consistency. I utilized advanced Excel functions such as SUMIF, IF, and PivotTables to 
+segment the data by location, property size, and review volume. These tools enabled me to calculate revenue projections and identify top-earning listings. 
+By constructing pivot tables, I was able to analyze patterns in rental activity and highlight how different property characteristics influenced performance. 
+To effectively communicate these insights, I developed visual reports including bar charts and interactive dashboards that illustrated trends in demand and 
+earnings across various neighborhoods. 
+Through this analysis, I was able to provide actionable recommendations for optimizing Airbnb rental strategies. 
+The findings offered a clear view of which property types and areas yield the highest returns, making the project valuable for hosts and investors 
+seeking to make informed, data-backed decisions.
