@@ -1,0 +1,14 @@
+Project Link :
+
+https://docs.google.com/presentation/d/1_ZcYkG94Wt5hYM16vwiuPwZMuK9r96VCjNYAU092lTs/edit?usp=sharing
+
+Project Description :
+
+This Tableau project focused on analyzing sales and returns data to understand return patterns and uncover potential issues in customer behavior. After importing and cleaning 
+the dataset, calculated fields were used to categorize return reasons and prepare the data for deeper analysis.
+
+Interactive dashboards were built to visualize trends across customer types, product categories, and regions. A geographic map highlighted return rates by state, while bar charts and 
+filters allowed for exploration of product-level and customer-level return patterns.
+
+The analysis revealed that a small group of customers accounted for a disproportionate number of returns, suggesting potential policy gaps or unusual buying behavior. The dashboards 
+provided clear insights for stakeholders to improve return policies and reduce losses.
