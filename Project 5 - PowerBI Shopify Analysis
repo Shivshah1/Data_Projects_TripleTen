@@ -1,0 +1,14 @@
+Project Link :
+
+https://docs.google.com/document/d/1t36kIGKqPWI0DGcUsPpSawZri4oyxSZv2YcsQBws4E0/edit?usp=sharing
+
+Project Description :
+
+This Power BI project focused on analyzing over 2,000 Shopify apps using scraped data from the App Store. The goal was to understand what drives app success by exploring 
+factors like ratings, reviews, categories, and developer performance. The data was cleaned and modeled across multiple tables to support detailed analysis.
+
+An interactive dashboard was built with multiple pages highlighting app landscape, user feedback, and performance. Custom DAX columns such as helpful_reviews and 
+developer_answered were used to measure review quality and developer responsiveness. Visuals included KPI cards, bar charts, and scatterplots for intuitive insights.
+
+The analysis revealed trends between review volume and app ratings, and helped rank developers based on engagement. The dashboard offered drill-down filters to explore 
+specific categories or apps, delivering a clear, data-driven view of the Shopify App Store.
