@@ -1,0 +1,10 @@
+Project Description :
+
+This SQL project focused on analyzing large-scale taxi ride data to uncover patterns in ride volume, trip duration, and company performance. The goal was to understand operational 
+trends and identify key factors influencing ride behavior. The dataset included trip details such as timestamps, locations, and service providers.
+
+To explore external influences, ride data was joined with weather datasets, allowing for analysis of how weather conditions impacted trip durations. SQL techniques such as aggregate 
+functions, filtering, joins, and CASE statements were used to extract meaningful insights from the data.
+
+Queries were optimized for performance and structured to support clear reporting. The final output included findings on peak ride times, high-performing taxi companies, and 
+weather-related delays—providing actionable insights into both service efficiency and external risk factors.
