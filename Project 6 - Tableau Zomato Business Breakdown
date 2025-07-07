@@ -1,0 +1,17 @@
+Project File : 
+
+https://docs.google.com/presentation/d/1URYmOCarjmQFjdg_Q9IFv_6R4Fp9lbbswtaG3kWE3TM/edit?usp=sharing
+
+Project Description : 
+
+This project involved analyzing restaurant and order data to uncover insights into cuisine popularity, sales performance by city and year, and top-rated restaurants. 
+The data was cleaned thoroughly by removing duplicates, standardizing names, and organizing the dataset for easier analysis. A left join was performed to combine orders and 
+restaurant data, allowing for a more complete view of customer preferences and sales trends.
+
+The analysis revealed that ‘Goan, Maharashtrian’ cuisine had the highest average rating across the dataset, and that Burger Rani ranked as the top-rated individual restaurant. 
+Tirupati emerged as the city with the highest overall sales, and 2018 stood out as the year with the most orders and revenue generated. These patterns pointed to both geographic 
+and temporal trends in consumer behavior.
+
+The findings suggested that regional cuisine offered outside of its home area—such as Goan food thriving in southern cities like Tirupati—can drive strong customer interest. 
+This indicates that cross-regional culinary offerings and targeted advertising could lead to increased engagement and higher order volumes. Focusing on diverse cuisine options 
+across cities may present a valuable growth opportunity for restaurant businesses.
